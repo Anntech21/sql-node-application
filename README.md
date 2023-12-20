@@ -103,7 +103,7 @@ VALUES
 
 const config = {
   user: 'sql_postgres_practice_user',
-  host: '[database.server.com] Replace with your URL',
+  host: '[database.server.com] Replace with your URL',(external from render)
   database: 'sql_postgres_practice',
   password: 'Replace with your password',
   port: 5432,
